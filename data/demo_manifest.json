@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "rows": 5000,
+  "reference_date": "2026-10-20",
+  "duplicate_rows": 150,
+  "blank_emails": 400,
+  "invalid_phones": 250,
+  "dmy_signup_dates": 1500,
+  "key_column": "client_id",
+  "pii_columns": [
+    "prenom",
+    "nom",
+    "courriel",
+    "telephone",
+    "adresse",
+    "code_postal",
+    "date_naissance",
+    "nas"
+  ],
+  "not_pii_columns": [
+    "client_id",
+    "ville",
+    "date_inscription",
+    "derniere_commande",
+    "numero_commande",
+    "montant_total"
+  ]
+}
