@@ -2,7 +2,9 @@
 
 Outil Streamlit qui note la qualité d'un jeu de données (complétude, unicité, validité,
 cohérence, fraîcheur) et repère les renseignements personnels (Loi 25).
-Projet de portfolio de Barbara Saroukou. **En construction : phase 4 sur 5 terminée.**
+Projet de portfolio de Barbara Saroukou. 
+**Démo en ligne : https://auditeur-qualite-donnees-bs.streamlit.app**
+
 
 ## Démarrer
 ```
