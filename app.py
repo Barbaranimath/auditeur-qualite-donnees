@@ -254,7 +254,8 @@ st.write(
     "dimensions et indique quoi corriger. Les fichiers sont analysés en mémoire et ne sont "
     "jamais conservés."
 )
-st.caption(Projet de Barbara Saroukou)
+st.caption("Projet de Barbara Saroukou.")
+
 
 left, right = st.columns([1, 2])
 with left:
